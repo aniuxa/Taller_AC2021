@@ -1,6 +1,5 @@
-# Taller para Análisis Cuantitativos
+# Taller para Análisis Cuantitativo
 
-Turnos matutino y vespertino
 
 Profesora titular: Dra. Ana Ruth Escoto Castillo <ana.escoto@politicas.unam.mx >
 
