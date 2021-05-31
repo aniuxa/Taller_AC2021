@@ -15,3 +15,11 @@ Manuel Echarri Cotler <mecharri@politicas.unam.mx>
 Introducción al programa ¡Qué emoción!
 
 [Práctica 1](P1.md)
+
+
+
+# ¿Segundo? taller
+
+Estadística descriptiva: trabajaremos con LAPOP 
+
+[Práctica 2](P2.md)
